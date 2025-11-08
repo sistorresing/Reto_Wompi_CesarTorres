@@ -1,0 +1,30 @@
+
+----- Nueva Ejecucion -----
+2025-11-07 20:22:14.981722 | Preparacion de Ambiente Realizado en:0.0s
+2025-11-07 20:22:15.498778 | Lectura JSONL Realizado en: 0.52s
+2025-11-07 20:22:16.118506 | Agregación realizada en: 0.62s
+2025-11-07 20:22:16.216223 | Creacion vista de salida y validacion final 0.1s
+
+----- Nueva Ejecucion -----
+2025-11-07 20:24:24.752140 | Preparacion de Ambiente Realizado en:0.0s
+2025-11-07 20:24:25.271218 | Lectura JSONL Realizado en: 0.52s
+2025-11-07 20:24:25.849825 | Agregación realizada en: 0.58s
+2025-11-07 20:24:25.915847 | Creacion vista de salida y validacion final 0.07s
+
+----- Nueva Ejecucion -----
+2025-11-07 20:26:58.905136 | Preparacion de Ambiente Realizado en:0.0s
+2025-11-07 20:26:59.413193 | Lectura JSONL Realizado en: 0.51s
+2025-11-07 20:27:00.011099 | Agregación realizada en: 0.6s
+2025-11-07 20:27:00.133702 | Creacion vista de salida y validacion final 0.12s
+
+----- Nueva Ejecucion -----
+2025-11-07 21:09:11.394206 | Preparacion de Ambiente Realizado en:0.0s
+2025-11-07 21:09:11.906551 | Lectura JSONL Realizado en: 0.51s
+2025-11-07 21:09:12.507786 | Agregación realizada en: 0.6s
+2025-11-07 21:09:12.586477 | Creacion vista de salida y validacion final 0.08s
+
+----- Nueva Ejecucion -----
+2025-11-07 21:22:26.511787 | Preparacion de Ambiente Realizado en:0.0s
+2025-11-07 21:22:27.125569 | Lectura JSONL Realizado en: 0.61s
+2025-11-07 21:22:27.739238 | Agregación realizada en: 0.61s
+2025-11-07 21:22:27.816000 | Creacion vista de salida y validacion final 0.08s
